@@ -27,8 +27,9 @@ The repository is organized so that a recruiter can run everything with **one cl
 
 
 
-## Quick start (recommended)
+## Quick start
 
+Recommended=> download the repository (ZIP or git clone) and run it locally in VS Code.
 
 ### Option A “Press Run” in VS Code
 1. Open the project folder in VS Code  
